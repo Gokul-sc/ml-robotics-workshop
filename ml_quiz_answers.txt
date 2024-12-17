@@ -1,0 +1,31 @@
+QUIZ
+1) What is supervised learning with one example
+2) Explain the difference between supervised and unsupervised learning.
+3) How is reinforcement learning different from supervised learning?
+
+---> Supervised learning is where, we try to learn the function
+with the given input and target values.
+we fit the model with the xi (input) and yi(target/output)
+The model tries find the relations using the functions.
+
+There are two types in Supervised learning
+classification
+regression
+
+Classification is a discreate model. It has the outputs like(cat , dog ) etc
+|___> has two types.
+1) binary / two class
+2) multi class
+
+----> Regression is used for continnuous values.
+like a range of values.
+for example predicting the temperatur / house prices.
+
+2) ----> Supervised learning is dont by fitting the input and the target
+values. Unsupervised does not have the req target values.
+It identifies the relation based on the given features.
+THE FUNCTION IS NOT GIVEN. THE MODEL HAS TO IDENTIFY THE relation
+
+3) ----->In supervised learning , the model is trained on labelled
+data. In reinforcement the agents learn by interacting with the environment
+and recieve feedback in the form of points.
