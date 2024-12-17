@@ -1,0 +1,35 @@
+Q) Key componants of a robot?
+Q) List three applications of robotics in real world.
+
+Key Componants of a robot include,
+1) Manipulator (Arm) Mechanism:
+2) Locomotion Mechanism( example : Rovers ,etc..)
+3) Navigation and Mapping Systems
+4) Sensors 
+--> manipulayor arm has several joints and transducers to convert 
+the humsn's movement to electrical signals and then again convert back and 
+move the arm to perform a task. It is used in a place where it would be
+dangerous to send a human.
+
+-->Locomotion Mechanism is used used (for example) by rovers.
+Mars rover collects sensory data and and then maps the location and decides where
+to go.
+
+-->Navigation is the next step of locomotion. After locating and mapping the
+area, the rover needs to navigate. It uses the mapped data to do that
+ 
+--> Sensors play an important role. they provide the data required
+to map the location. And they also help the robot understand
+it's environment and also internal things.
+
+THREE APPLICATIONS OF ROBOTICS IN LIFE
+-----------------------------------------------------------------------
+
+They are used in hazardous locations. 
+
+They are used in monotonous jobs. For example , in factories.
+
+Robots are also used in surgical fields. There are several surgical
+robots which help doctors.
+for example , the neuralink robot to plant the neuralink chip in a person's
+brain.
