@@ -9,7 +9,7 @@ There are two types in supervised learning:
 1. **Classification**  
    - A discrete model with outputs like (cat, dog, etc.).  
    - **Types**:
-     - Binary / Two-class
+     - Binary / Two-class 
      - Multi-class  
 
 2. **Regression**  
