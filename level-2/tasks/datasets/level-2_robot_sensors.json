@@ -1,0 +1,17 @@
+[
+    {
+        "sensor_id": 1,
+        "type": "LIDAR",
+        "range": 10.0
+    },
+    {
+        "sensor_id": 2,
+        "type": "Camera",
+        "resolution": "1080p"
+    },
+    {
+        "sensor_id": 3,
+        "type": "Ultrasonic",
+        "range": 5.0
+    }
+]
