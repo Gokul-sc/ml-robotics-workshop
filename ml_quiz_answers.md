@@ -1,4 +1,4 @@
-# QUIZ 
+# QUIZ
 
 ### 1. What is supervised learning with one example?
 Supervised learning is where we try to learn the function with the given input and target values.  
@@ -9,7 +9,7 @@ There are two types in supervised learning:
 1. **Classification**  
    - A discrete model with outputs like (cat, dog, etc.).  
    - **Types**:
-     - Binary / Two-class 
+     - Binary / Two-class
      - Multi-class  
 
 2. **Regression**  
