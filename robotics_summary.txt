@@ -1,4 +1,4 @@
-# Robotics
+# Robotics 
 
 ### Q) What are the key components of a robot?  
 Key components of a robot include:  
