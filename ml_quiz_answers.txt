@@ -1,4 +1,4 @@
-# QUIZ
+# QUIZ 
 
 ### 1. What is supervised learning with one example?
 Supervised learning is where we try to learn the function with the given input and target values.  
